@@ -1,0 +1,2 @@
+#!./bich/bash
+mkadir -m 751 my_dir
